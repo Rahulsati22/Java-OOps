@@ -1,7 +1,3 @@
-package OOpsfinal;
-
-import com.sun.tools.javac.Main;
-
 public class Lecture2 {
     public static void main(String[] args) {
         Human rahul = new Human(20, 6, "rahul", 100000000);
